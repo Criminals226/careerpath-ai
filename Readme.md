@@ -1,4 +1,4 @@
-# CareerPath AI — AI-Powered Career Guidance Assistant
+# CareerPath AI:AI-Powered Career Guidance Assistant
 
 CareerPath AI is a conversational AI application designed to help university students and fresh graduates explore career options, identify skill gaps, and develop practical learning plans based on their goals and current abilities.
 
