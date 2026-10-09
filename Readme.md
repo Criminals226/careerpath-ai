@@ -119,7 +119,7 @@ The application does not require a separate training process for the underlying 
 ## Project Links
 
 * **GitHub Repository:** https://github.com/criminals226/careerpath-ai
-* **Live Demo:** Add your deployed application URL when available.
+* **Live Demo:** https://careerpath-ai-wxq2qivpbvhqckuovywkch.streamlit.app/
 
 ## Author
 
@@ -129,4 +129,4 @@ Cybersecurity graduate exploring Artificial Intelligence, Machine Learning, and 
 
 ---
 
-*Developed as an AI chatbot development project.*
+*Developed as an AI chatbot development project part of EncoderX AI/ML internship.*
